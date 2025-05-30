@@ -16,7 +16,7 @@ This project highlights my skills, professional experience, and background as a 
  
 ## 📸 Preview
 ![Screenshot](./images/aboutme.png)
-[Live Demo](https://rorisang07.github.io/About-Me/)
+[Live Demo][[(https://rorisang07.github.io/About-Me/)]](https://rorisang07.github.io/About-Me/)
 
 ## Authors
 * 👤Rorisang Kgwete
