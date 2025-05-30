@@ -12,7 +12,7 @@ This project highlights my skills, professional experience, and background as a 
 ## 🚀 Technologies Used
 * HTML5
 * CSS3
-*Git & GitHub
+* Git & GitHub
  
 ## 📸 Preview
 ![Screenshot](./images/aboutme.png)
@@ -22,5 +22,5 @@ This project highlights my skills, professional experience, and background as a 
 * 👤Rorisang Kgwete
 * https://github.com/Rorisang07
 
-## 📂 Folder Structure
+
 
